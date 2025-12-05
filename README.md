@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Website — Professional & Feature-Rich README
+# 🛒 E-Commerce Website 
 
 A modern and fully responsive **E-Commerce Website** built using **Vite + React + TypeScript**, along with powerful UI styling using **Tailwind CSS** and utility components via **ShadCN UI**. This project follows clean folder structure, reusable components, and best practices.
 
